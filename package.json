@@ -1,0 +1,13 @@
+{
+   "name":"@teresiagable/react-debugz",
+   "version":"1.0.0",
+   "description": "prints props as stringifyed JSON",
+   "license": "MIT",
+   "repository": "teresiagable/react-debugz",
+   "main": "index.js",
+   "keywords": [
+     "debug",
+     "JSON",
+     "teresiagable"
+   ]
+ }
